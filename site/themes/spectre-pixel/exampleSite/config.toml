@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/"
+baseurl = "https://example.com/"
 languageCode = "en-us"
 title = "Spectre Pixel Theme"
 theme = "spectre-pixel"
